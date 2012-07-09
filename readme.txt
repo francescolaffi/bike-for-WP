@@ -13,7 +13,7 @@ Bike (https://github.com/jagermesh/bike), a lightweight MySQL admin panel
 
 Bike (https://github.com/jagermesh/bike), is a lightweight MySQL admin panel, this plugin makes it easily accessible from WP backand and restrict the access to admins.
 
-Requires *PHP 5.3+*
+Requires **PHP 5.3+**
 
 Bugs? Suggestions? use github: https://github.com/francescolaffi/bike-for-WP/issues
 
