@@ -27,4 +27,4 @@ development version: https://github.com/francescolaffi/bike-for-WP
 == Upgrade Notice ==
 
 = 0.2 =
-notice
+if you have saved queries you should backup the json file in bike/user/ and restore it after update
